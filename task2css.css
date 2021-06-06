@@ -1,0 +1,74 @@
+.one{
+    position:absolute;
+    top:30px;
+    
+   
+}
+.four{
+    position:absolute;
+    top:30px;
+    left:510px;
+   
+}
+.three{
+    font-size: 10px;
+    position:absolute;
+    top:60px;
+    left:510px;
+    
+}
+.two{
+    font-size: 10px;
+    position:absolute;
+    top:60px;
+  
+}
+
+
+.five:after{
+    content:"*";
+    color:red;
+    
+   
+}
+.six{
+    width: 385px;
+    top:120px;
+    position:absolute;
+   
+}
+.seven{
+    top:200px;
+    position:absolute;
+}
+.checked {
+    color: orange;
+    
+
+  }
+
+  table,
+  tr{
+      width: 600;
+  }
+.td1,.td3{
+    text-align: center;
+   
+}
+.td2,.td4{
+    text-align: center;
+    background: rgb(238, 238, 238);
+}
+.tdn{
+    text-align:left;
+    background: rgb(238, 238, 238);
+}
+.box{
+   
+    width: 903px;
+    height: 80px;
+}
+  .but{
+      width:100px;
+  }
+  
